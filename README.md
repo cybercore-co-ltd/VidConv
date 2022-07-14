@@ -1,4 +1,4 @@
-# VidConv
+# VidConv: A modernized 2D ConvNet for Efficient Video Recognition
 This is official implementation of paper `VidConv: A modernized 2D ConvNet for Efficient Video Recognition` 
 
 + Code will be released after the paper accept.
